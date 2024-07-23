@@ -1,0 +1,55 @@
+$date
+	Mon Jul 22 20:16:12 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module bidir_buffer_tb $end
+$var wire 1 ! data $end
+$var wire 1 " out $end
+$var reg 1 # data_reg $end
+$var reg 1 $ dir $end
+$var reg 1 % enable $end
+$var reg 1 & in $end
+$scope module uut $end
+$var wire 1 ! data $end
+$var wire 1 $ dir $end
+$var wire 1 % enable $end
+$var wire 1 & in $end
+$var wire 1 " out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0&
+0%
+0$
+z#
+z"
+z!
+$end
+#10000
+1&
+#30000
+1!
+1$
+1%
+#50000
+1"
+1#
+0$
+#70000
+x!
+z"
+0&
+1$
+#90000
+0"
+0!
+0#
+0$
+#100000

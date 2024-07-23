@@ -1,0 +1,182 @@
+$date
+	Mon Jul 22 22:48:19 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module mux_41_tb $end
+$var wire 1 ! f2 $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$var reg 1 & s0 $end
+$var reg 1 ' s1 $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % d $end
+$var wire 1 & s0 $end
+$var wire 1 ' s1 $end
+$var wire 1 ! f2 $end
+$var wire 1 ( W2 $end
+$var wire 1 ) W1 $end
+$scope module M1 $end
+$var wire 1 & s $end
+$var wire 1 " x $end
+$var wire 1 # y $end
+$var wire 1 ) f1 $end
+$upscope $end
+$scope module M2 $end
+$var wire 1 & s $end
+$var wire 1 $ x $end
+$var wire 1 % y $end
+$var wire 1 ( f1 $end
+$upscope $end
+$scope module M3 $end
+$var wire 1 ' s $end
+$var wire 1 ) x $end
+$var wire 1 ( y $end
+$var wire 1 ! f1 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20000
+1'
+#30000
+1&
+0'
+#40000
+1'
+#50000
+1$
+0&
+0'
+#60000
+1'
+#70000
+1!
+1(
+1&
+0'
+#80000
+0!
+1'
+#90000
+1)
+0(
+0!
+1#
+0$
+0&
+0'
+#100000
+1!
+1'
+#110000
+0)
+0!
+1&
+0'
+#120000
+1'
+#130000
+1)
+1$
+0&
+0'
+#140000
+1!
+1'
+#150000
+0)
+1(
+1!
+1&
+0'
+#160000
+0!
+1'
+#170000
+0(
+0!
+1"
+0#
+0$
+0&
+0'
+#180000
+1'
+#190000
+1)
+1&
+0'
+#200000
+1!
+1'
+#210000
+0)
+0!
+1$
+0&
+0'
+#220000
+1'
+#230000
+1!
+1)
+1(
+1&
+0'
+#240000
+1'
+#250000
+0!
+0(
+1#
+0$
+0&
+0'
+#260000
+1!
+1'
+#270000
+0!
+1&
+0'
+#280000
+1!
+1'
+#290000
+0!
+1$
+0&
+0'
+#300000
+1!
+1'
+#310000
+1(
+1!
+1&
+0'
+#320000
+1'
+#330000
